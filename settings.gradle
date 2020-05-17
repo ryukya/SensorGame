@@ -1,0 +1,2 @@
+rootProject.name='SensorGame'
+include ':app'

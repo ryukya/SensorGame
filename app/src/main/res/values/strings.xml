@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SensorGame</string>
+    <string name="help">Help</string>
+    <string name="h_m">How to play</string>
+    <string name="h_cont">Tilt your phone to move the ball. Prevent the ball from touching the walls</string>
+    <string name="h_ok">Good Luck</string>
+    <string name="h_btn">OK</string>
+    <string name="loseT">You Lose!</string>
+    <string name="yon">Click YES to retry. Click NO to exit</string>
+
+</resources>
